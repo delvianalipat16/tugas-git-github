@@ -1,0 +1,11 @@
+Berikut beberapa perintah dasar dalam Git:
+
+git init : Membuat repository Git baru.
+
+git clone <URL> : Mengkloning repository dari GitHub.
+
+git add <file> : Menambahkan file ke staging area.
+
+git commit -m "pesan" : Menyimpan perubahan dengan pesan commit.
+
+git push origin main : Mengunggah perubahan ke repository GitHub.
